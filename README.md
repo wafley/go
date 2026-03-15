@@ -15,6 +15,8 @@ This repository documents my journey learning the **Go (Golang)** programming la
 -   [x] **03. Control Flow:** Conditionals (`if`, `switch`) and the one and only loop (`for`).
 -   [x] **04. Basic Functions:** Parameters, multiple return values, and named return values.
 
+    `📁 Directory Folder` -> [Open](/phase-1/)
+
 ### Phase 2: Data Structures & Memory Management
 
 -   [ ] **05. Arrays & Slices:** Understanding static vs. dynamic data collections.
