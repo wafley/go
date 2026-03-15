@@ -10,7 +10,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 
 ### Phase 1: Foundations (Syntax & Logic)
 
--   [ ] **01. Hello Gopher:** Installation, `go mod`, and the first program.
+-   [x] **01. Hello Gopher:** Installation, `go mod`, and the first program.
 -   [ ] **02. Variables & Data Types:** Declarations (`var`, `:=`), constants, and zero values.
 -   [ ] **03. Control Flow:** Conditionals (`if`, `switch`) and the one and only loop (`for`).
 -   [ ] **04. Basic Functions:** Parameters, multiple return values, and named return values.
