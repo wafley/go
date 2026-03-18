@@ -19,7 +19,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 
 ### Phase 2: Data Structures & Memory Management
 
--   [ ] **05. Arrays & Slices:** Understanding static vs. dynamic data collections.
+-   [x] **05. Arrays & Slices:** Understanding static vs. dynamic data collections.
 -   [ ] **06. Maps:** Storing data in key-value formats.
 -   [ ] **07. Pointers:** Understanding memory addresses and when to use them.
 -   [ ] **08. Structs:** Creating custom data types to represent objects.
