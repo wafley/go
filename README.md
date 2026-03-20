@@ -22,7 +22,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 -   [x] **05. Arrays & Slices:** Understanding static vs. dynamic data collections.
 -   [x] **06. Maps:** Storing data in key-value formats.
 -   [x] **07. Pointers:** Understanding memory addresses and when to use them.
--   [ ] **08. Structs:** Creating custom data types to represent objects.
+-   [x] **08. Structs:** Creating custom data types to represent objects.
 
 ### Phase 3: Go-Style Object-Oriented Programming
 
