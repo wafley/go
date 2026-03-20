@@ -24,6 +24,8 @@ This repository documents my journey learning the **Go (Golang)** programming la
 -   [x] **07. Pointers:** Understanding memory addresses and when to use them.
 -   [x] **08. Structs:** Creating custom data types to represent objects.
 
+    `📁 Directory Folder` -> [Open](https://github.com/wafley/go/tree/master/phase-2/)
+
 ### Phase 3: Go-Style Object-Oriented Programming
 
 -   [ ] **09. Methods:** Attaching functions to structs.
