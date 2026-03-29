@@ -30,7 +30,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 
 - [x] **09. Methods:** Attaching functions to structs.
 - [x] **10. Interfaces:** Behavioral contracts and the power of polymorphism in Go.
-- [ ] **11. Error Handling:** The philosophy of handling errors without `try-catch`.
+- [x] **11. Error Handling:** The philosophy of handling errors without `try-catch`.
 
 ### Phase 4: Advanced Features & Concurrency
 
