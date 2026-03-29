@@ -36,7 +36,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 
 ### Phase 4: Advanced Features & Concurrency
 
-- [ ] **12. Packages & Modules:** Managing dependencies and large project structures.
+- [x] **12. Packages & Modules:** Managing dependencies and large project structures.
 - [ ] **13. Goroutines:** The fundamentals of concurrency (parallel processing).
 - [ ] **14. Channels:** The safe way for goroutines to communicate.
 - [ ] **15. Select & WaitGroups:** Synchronizing complex concurrency patterns.
