@@ -32,6 +32,8 @@ This repository documents my journey learning the **Go (Golang)** programming la
 - [x] **10. Interfaces:** Behavioral contracts and the power of polymorphism in Go.
 - [x] **11. Error Handling:** The philosophy of handling errors without `try-catch`.
 
+    `📁 Directory Folder` -> [Open](https://github.com/wafley/go/tree/master/phase-3/)
+
 ### Phase 4: Advanced Features & Concurrency
 
 - [ ] **12. Packages & Modules:** Managing dependencies and large project structures.
