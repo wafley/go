@@ -41,6 +41,8 @@ This repository documents my journey learning the **Go (Golang)** programming la
 - [x] **14. Channels:** The safe way for goroutines to communicate.
 - [x] **15. Select & WaitGroups:** Synchronizing complex concurrency patterns.
 
+    `📁 Directory Folder` -> [Open](https://github.com/wafley/go/tree/master/phase-4/)
+
 ### Phase 5: Go for the Real World (Systems & Web)
 
 - [ ] **16. Standard Library:** String manipulation, time, and file I/O on Debian.
