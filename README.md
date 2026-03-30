@@ -45,7 +45,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 
 ### Phase 5: Go for the Real World (Systems & Web)
 
-- [ ] **16. Standard Library:** String manipulation, time, and file I/O on Debian.
+- [x] **16. Standard Library:** String manipulation, time, and file I/O on Debian.
 - [ ] **17. JSON & Web APIs:** Building HTTP servers and processing JSON data.
 - [ ] **18. Unit Testing:** Writing automated tests using the `testing` package.
 - [ ] **19. Database Connectivity:** Connecting Go with SQL (PostgreSQL/MySQL).
