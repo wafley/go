@@ -38,7 +38,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 
 - [x] **12. Packages & Modules:** Managing dependencies and large project structures.
 - [x] **13. Goroutines:** The fundamentals of concurrency (parallel processing).
-- [ ] **14. Channels:** The safe way for goroutines to communicate.
+- [x] **14. Channels:** The safe way for goroutines to communicate.
 - [ ] **15. Select & WaitGroups:** Synchronizing complex concurrency patterns.
 
 ### Phase 5: Go for the Real World (Systems & Web)
