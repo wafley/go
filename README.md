@@ -48,7 +48,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 - [x] **16. Standard Library:** String manipulation, time, and file I/O on Debian.
 - [x] **17. JSON & Web APIs:** Building HTTP servers and processing JSON data.
 - [x] **18. Unit Testing:** Writing automated tests using the `testing` package.
-- [ ] **19. Database Connectivity:** Connecting Go with SQL (PostgreSQL/MySQL).
+- [x] **19. Database Connectivity:** Connecting Go with SQL (PostgreSQL/MySQL).
 
 ### Phase 6: Final Project
 
