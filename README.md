@@ -50,6 +50,8 @@ This repository documents my journey learning the **Go (Golang)** programming la
 - [x] **18. Unit Testing:** Writing automated tests using the `testing` package.
 - [x] **19. Database Connectivity:** Connecting Go with SQL (PostgreSQL/MySQL).
 
+    `📁 Directory Folder` -> [Open](https://github.com/wafley/go/tree/master/phase-5/)
+
 ### Phase 6: Final Project
 
 - [ ] **Capstone Project:** Building a functional CLI application or REST API.
