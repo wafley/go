@@ -54,7 +54,7 @@ This repository documents my journey learning the **Go (Golang)** programming la
 
 ### Phase 6: Final Project
 
-- [ ] **Capstone Project:** Building a functional CLI application or REST API.
+- [x] **Capstone Project:** Building a functional CLI application or REST API.
 
 ---
 
